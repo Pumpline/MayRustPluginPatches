@@ -5,3 +5,4 @@ In this repo you will find some very known (and for free) fixed plugins. Keep in
 TL;DR Original Dev Patches > this repo patches - Use on own risk
 
 If you want to contribute to this repo: fork -> PR + mention on Discord (@Pumpline#5578)
+!!! TO AVOID LEAKS ONLY UPLOAD PLUGINS THAT ARE FOR FREE !!!
